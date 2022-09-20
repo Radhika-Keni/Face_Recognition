@@ -29,9 +29,14 @@ The code aims at building a  CNN model and obtaining embedding vectors from the 
 
 ## Sample Ouput/Prediction :
 Here is a sample result/output from the program/model 
+
+
 ![image](https://user-images.githubusercontent.com/68383273/191279777-2953d8aa-59b8-409d-b142-ce4997aff025.png)
 
+
+
 ![image](https://user-images.githubusercontent.com/68383273/191280099-12d497cf-ac65-4b5c-a9b2-5f28a130613a.png)
+
 
 ![image](https://user-images.githubusercontent.com/68383273/191280230-fa89ac88-e84b-4029-829e-2cdd0a05f9af.png)
 
