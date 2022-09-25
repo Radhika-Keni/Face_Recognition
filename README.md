@@ -25,7 +25,7 @@ The code aims at building a  CNN model and obtaining embedding vectors from the 
 - We then move on to Model building where we build the VGGFace model pretrained specifically for face recognition and generate embedding vectors from the same by running the images over it.
 -Distance between the embedding vectors is used to idetify whether the two images belong to the same person or a different person and this is the main ask for the face recognition model.
 -As an  "additional ask ", we also perform a "classification" on the faces to label them with names using SVM.
--Refer **python worksheet  Project_P2_FaceRecognition.pynb for the solution **
+-Refer **python worksheet  Project_P2_FaceRecognition.pynb** for the solution
 
 ## Sample Ouput/Prediction :
 Here is a sample result/output from the program/model 
