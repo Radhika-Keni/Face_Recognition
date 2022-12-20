@@ -51,5 +51,5 @@ Lets further display predictions from SVM
 
 
 ## Result
-- This model was able to accurately recognize faces and also predict the celebrity names 
+- This model was able to accurately recognize faces and also predict the celebrity names with an accuracy of 96%
 
