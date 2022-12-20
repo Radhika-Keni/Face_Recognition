@@ -42,6 +42,14 @@ Here is a sample result/output from the program/model
 
 
 
+Lets further display predictions from SVM
+
+![image](https://user-images.githubusercontent.com/68383273/208733069-560bc067-58e1-4d27-8f6b-6fb92403f348.png)
+
+![image](https://user-images.githubusercontent.com/68383273/208733193-5abd8bc0-c50b-4758-bb1f-24d31766f4ec.png)
+
+
+
 ## Result
-- This model was able to accurately recognize faces(Celebrity faces in this case)
+- This model was able to accurately recognize faces and also predict the celebrity names 
 
