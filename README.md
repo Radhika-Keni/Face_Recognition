@@ -5,6 +5,7 @@ Build a Face Recognition Model
 ## Objective of this notebook
 - The purpose of this notebook is to build a Face Recognition model 
 - The objective is to recognise whether two given faces are of the same person or not.
+- In addition to the  above , we also try to classify the given person as a certain celebrity
 - Details of the **problem statement**  , **data set** ,  **summary of the code/solution**  , **sample output/Prediction** from the program and **final result** of the project are listed in the sections to follow.
 
 ## Problem Statement 
